@@ -1,9 +1,0 @@
-[soshistagram_loona]
-title = "VLive 다운로더 ─ 이달의 소녀"
-url = "https://home.soshistagram.com/naver_v/channel/468/"
-entrySelector = "div.video-list div.row.video-list-video"
-titleSelector = "div.col-md-9.video-info span.title.emojify a.dl"
-linkSelector = "div.col-md-9.video-info span.title.emojify a.dl"
-contentSelector = "a.vid"
-imageSelector = "div.col-md-3.video-thumbnail a.dl img.img-responsive"
-waitUntil = "networkidle"
