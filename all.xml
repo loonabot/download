@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 10:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 11:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하슬 선배와 라떼 TALK 2 (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>javascript:void(0)</link>
-            <guid>javascript:void(0)</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/277331]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_218/1645092240718nVneH_JPEG/157967840673920551a13dd4d9-3272-4821-ae9e-b9741a0611d0.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[바니지니 토낑어바웃 #9 (진짜 진짜) (VLive 다운로더 ─ 이달의 소녀)]]></title>
             <link>https://home.soshistagram.com/naver_v/video/277142/</link>
@@ -126,6 +118,14 @@
             <pubDate>Sun, 13 Feb 2022 23:54:21 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/275823]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_112/1643345761890locUV_JPEG/upload_59615353899637306139902fb-0be0-4bba-8552-8d9fb49bac9c.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건빵솔 (VLive 다운로더 ─ 이달의 소녀)]]></title>
+            <link>https://home.soshistagram.com/naver_v/video/276037/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/276037/</guid>
+            <pubDate>Thu, 17 Feb 2022 11:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/276037]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220130_47/1643522913704KOMRb_JPEG/156398495641437718d4ec424c-f287-40c1-bfd3-ac33372335aa.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
