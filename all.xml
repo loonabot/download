@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생존신고! (VLive 다운로더 ─ 이달의 소녀)]]></title>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Wed, 02 Mar 2022 07:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278196]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278196/thumb?type=f640_362" length="0" type="image//live/278196/thumb"/>
+        </item>
         <item>
             <title><![CDATA[진도리도리 (VLive 다운로더 ─ 이달의 소녀)]]></title>
             <link>https://home.soshistagram.com/naver_v/video/278153/</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/276450]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_112/1644137704298P6Kfi_JPEG/8329418714604155322d7a29e-c6b8-495d-80ef-380cbbf78eb4.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 소통 타임 (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/276374/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/276374/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/276374]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_293/16439658331906IN3c_JPEG/156754204106434570a6cadbf6-3bcb-4566-8bb0-2c3e9f75539b.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
