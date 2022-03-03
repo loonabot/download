@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>javascript:void(0)</link>
-            <guid>javascript:void(0)</guid>
-            <pubDate>Thu, 03 Mar 2022 05:14:26 GMT</pubDate>
+            <link>https://home.soshistagram.com/naver_v/video/278295/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/278295/</guid>
+            <pubDate>Thu, 03 Mar 2022 06:19:28 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/278295]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278295/thumb?type=f640_362" length="0" type="image//live/278295/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_143/16462865812034aI0I_JPEG/47d1c355-9ab5-11ec-9e68-a0369ff9545c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생존신고! (VLive 다운로더 ─ 이달의 소녀)]]></title>
