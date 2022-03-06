@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Sun, 06 Mar 2022 06:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278541]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278541/thumb?type=f640_362" length="0" type="image//live/278541/thumb"/>
+        </item>
         <item>
             <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
             <link>https://home.soshistagram.com/naver_v/video/278507/</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/276825]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_41/1644505882063oNe5j_JPEG/50e6bbb4-8a83-11ec-b3f1-505dacfbaa5c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 오늘 생일이야.. (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/276823/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/276823/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/276823]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220210_267/1644504315640Fo3hy_JPEG/f4ddd0e0-8a7f-11ec-8fb9-48df379cc9e4_03.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
