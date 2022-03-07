@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠깐 들렀엉 (VLive 다운로더 ─ 이달의 소녀)]]></title>
+            <link>https://home.soshistagram.com/naver_v/video/278619/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/278619/</guid>
+            <pubDate>Mon, 07 Mar 2022 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278619]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_221/1646645556484OKusB_JPEG/15952113847269155555079a2c-73f4-4e02-8c90-0a4c01516980.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
             <link>https://home.soshistagram.com/naver_v/video/278541/</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/276988]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220213_112/1644743937923K5Qhn_JPEG/8024f856-8cad-11ec-a565-48df379ccacc_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅎ (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/276825/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/276825/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/276825]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220211_41/1644505882063oNe5j_JPEG/50e6bbb4-8a83-11ec-b3f1-505dacfbaa5c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
