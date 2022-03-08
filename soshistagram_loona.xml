@@ -4,9 +4,25 @@
         <title>VLive 다운로더 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진도리도리]]></title>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Tue, 08 Mar 2022 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278695]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278695/thumb?type=f640_362" length="0" type="image//live/278695/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[진도리도리]]></title>
+            <link>https://home.soshistagram.com/naver_v/video/278694/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/278694/</guid>
+            <pubDate>Tue, 08 Mar 2022 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278694]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_169/1646730339932Xr6wR_JPEG/e9ee835a-9ebe-11ec-92eb-48df379cca40_03.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠깐 들렀엉]]></title>
             <link>https://home.soshistagram.com/naver_v/video/278619/</link>
@@ -104,22 +120,6 @@
             <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/277142]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220215_219/1644920038670ctuUJ_JPEG/afccec0d-8e46-11ec-9e68-a0369ff9545c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피발렌타인데이]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/277029/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/277029/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/277029]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_260/1644819573531VMkQg_JPEG/d4d5edd2-8d5c-11ec-9e68-a0369ff9545c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진도리도리]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/276988/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/276988/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/276988]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220213_112/1644743937923K5Qhn_JPEG/8024f856-8cad-11ec-a565-48df379ccacc_03.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
