@@ -4,9 +4,25 @@
         <title>VLive 다운로더 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 08:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이팅기뮹]]></title>
+            <link>https://home.soshistagram.com/naver_v/video/278733/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/278733/</guid>
+            <pubDate>Wed, 09 Mar 2022 08:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278733]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220309_145/1646813572663BbUIN_JPEG/159689175630809391d121965a-a0a7-4fbe-91da-7a3f463eb0dc.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이팅]]></title>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Wed, 09 Mar 2022 08:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/278734]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220309_77/1646813779738QvTm0_JPEG/159602090706298794eda07b3b-1c99-41be-9fed-0b38b30747fc.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진도리도리]]></title>
             <link>https://home.soshistagram.com/naver_v/video/278695/</link>
@@ -104,22 +120,6 @@
             <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/277417]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_10/1645171516670ClR5q_JPEG/157959887606648576fb4d3442-6fe6-4258-855a-ad4947303319.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하슬 선배와 라떼 TALK 2]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/277331/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/277331/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/277331]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_218/1645092240718nVneH_JPEG/157967840673920551a13dd4d9-3272-4821-ae9e-b9741a0611d0.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바니지니 토낑어바웃 #9 (진짜 진짜)]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/277142/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/277142/</guid>
-            <pubDate>Mon, 28 Feb 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/277142]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_219/1644920038670ctuUJ_JPEG/afccec0d-8e46-11ec-9e68-a0369ff9545c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
