@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 11:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 12:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[오빛아~ 저녁 뭐먹어요~? (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>javascript:void(0)</link>
-            <guid>javascript:void(0)</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:06 GMT</pubDate>
+            <link>https://home.soshistagram.com/naver_v/video/278826/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/278826/</guid>
+            <pubDate>Thu, 10 Mar 2022 12:26:29 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/278826]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_23/1646906292092egpNC_JPEG/15978189208047273820f92600-feb2-4141-9bc8-442770e3d1aa.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
