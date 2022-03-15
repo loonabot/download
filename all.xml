@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 08:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[이제안츄워 (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>javascript:void(0)</link>
-            <guid>javascript:void(0)</guid>
-            <pubDate>Tue, 15 Mar 2022 06:19:50 GMT</pubDate>
+            <link>https://home.soshistagram.com/naver_v/video/279190/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/279190/</guid>
+            <pubDate>Tue, 15 Mar 2022 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/279190]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220315_216/16473240859154fDpq_JPEG/1601124650565040785ff329cc-f3a2-40fa-a79f-97dc92735247.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
