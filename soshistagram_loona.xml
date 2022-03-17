@@ -4,9 +4,16 @@
         <title>VLive 다운로더 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 09:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 10:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Thu, 17 Mar 2022 10:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/279394]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_191/1647509640089QLKQ5_JPEG/1603851710335653559b9907c0-c96a-4ddc-a9c8-744ffbf095c6.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쩨리다아]]></title>
             <link>https://home.soshistagram.com/naver_v/video/279310/</link>
@@ -115,13 +122,6 @@
             <pubDate>Sat, 05 Mar 2022 12:23:25 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/278507]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220305_9/1646482310308nd1T0_JPEG/fa26ff50-9c7c-11ec-8052-505dacfbaa5c_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <link>https://home.soshistagram.com/naver_v/video/278506/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/278506/</guid>
-            <pubDate>Sat, 05 Mar 2022 12:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/278506]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220305_246/1646477985846kBaah_JPEG/159353588796912963abe00e53-913a-429b-b7fc-b0288f55e9f4.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
