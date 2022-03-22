@@ -4,9 +4,16 @@
         <title>VLive 다운로더 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://home.soshistagram.com/naver_v/video/279747/</link>
+            <guid>https://home.soshistagram.com/naver_v/video/279747/</guid>
+            <pubDate>Tue, 22 Mar 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/279747]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_184/1647940757026wgG8o_JPEG/3615dc6d-a9c0-11ec-89d7-48df37ae3dc4_03.jpg?type=f640_362" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>https://home.soshistagram.com/naver_v/video/279731/</link>
             <guid>https://home.soshistagram.com/naver_v/video/279731/</guid>
@@ -115,14 +122,6 @@
             <pubDate>Tue, 08 Mar 2022 10:17:13 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/278694]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220308_169/1646730339932Xr6wR_JPEG/e9ee835a-9ebe-11ec-92eb-48df379cca40_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 들렀엉]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/278619/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/278619/</guid>
-            <pubDate>Tue, 22 Mar 2022 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/278619]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_221/1646645556484OKusB_JPEG/15952113847269155555079a2c-73f4-4e02-8c90-0a4c01516980.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
