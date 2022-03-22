@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
+            <link>javascript:void(0)</link>
+            <guid>javascript:void(0)</guid>
+            <pubDate>Tue, 22 Mar 2022 08:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.vlive.tv/video/279747]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279747/thumb?type=f640_362" length="0" type="image//live/279747/thumb"/>
+        </item>
         <item>
             <title><![CDATA[ (VLive 다운로더 ─ 이달의 소녀)]]></title>
             <link>https://home.soshistagram.com/naver_v/video/279731/</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 08 Mar 2022 10:17:13 GMT</pubDate>
             <content:encoded><![CDATA[https://www.vlive.tv/video/278694]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220308_169/1646730339932Xr6wR_JPEG/e9ee835a-9ebe-11ec-92eb-48df379cca40_03.jpg?type=f640_362" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 들렀엉 (VLive 다운로더 ─ 이달의 소녀)]]></title>
-            <link>https://home.soshistagram.com/naver_v/video/278619/</link>
-            <guid>https://home.soshistagram.com/naver_v/video/278619/</guid>
-            <pubDate>Mon, 07 Mar 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.vlive.tv/video/278619]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_221/1646645556484OKusB_JPEG/15952113847269155555079a2c-73f4-4e02-8c90-0a4c01516980.jpg?type=f640_362" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
